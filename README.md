@@ -1,2 +1,2 @@
-# sample-repo-vulnerability-scan-scan
+# sample-repo-vulnerability-scan
 This is a Sample Repo contains many known vulnerabilites.
